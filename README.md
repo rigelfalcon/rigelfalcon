@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigelfalcon&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/joyblablabla/joyblablabla/blob/main/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/joyblablabla/joyblablabla/blob/main/metrics.additional.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/rigelfalcon/rigelfalcon/blob/main/metrics.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/rigelfalcon/rigelfalcon/blob/main/metrics.additional.svg">
