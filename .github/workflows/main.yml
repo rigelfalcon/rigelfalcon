@@ -14,4 +14,3 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-See all supported options in action.yml.
